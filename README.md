@@ -40,7 +40,7 @@
   <h3 align="center">HtmlmthCases</h3>
 
   <p align="center">
-    Cases for [HTMLMTH](https://github.com/CreatePhotonW/htmlmth)
+    Cases for HTMLMTH
     <br />
 <!--    <a href="https://github.com/CreatePhotonW/htmlmthcases"><strong>Explore the docs »</strong></a> -->
     <br />
