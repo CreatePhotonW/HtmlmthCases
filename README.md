@@ -128,16 +128,16 @@ See [htmlmth Prerequisites](https://github.com/CreatePhotonW/htmlmth#prerequisit
 See [htmlmth Usage](https://github.com/CreatePhotonW/htmlmth#usage)
 
 
-Run [_scripting_encoder_server.py_](https://github.com/CreatePhotonW/htmlmth/blob/main/scripting_encoder_server.py) from htmlmth is applicable. See htmlmth's readme for more info.
+Run [_scripting_encoder_server.py_](https://github.com/CreatePhotonW/htmlmth/blob/main/scripting_encoder_server.py) from htmlmth if applicable. See htmlmth's readme for more info.
 ```bash
 python.exe -m pip install flask
 set FLASK_APP=scripting_encoder_server.py
 python.exe -m flask run --host=0.0.0.0
 ```
 
-Follow html instructions for *EvasionHTTPServer.py* or *output_cases.py* 
+Follow htmlmth's usage for *EvasionHTTPServer.py* or *output_cases.py* 
 
-Specifically, select a baseline file and case file and specify your selection with the **-b** and **-c** options
+Specifically, select a baseline file and a case file and specify your selection with the **-b** and **-c** options
 
 For example,
 ```sh
